@@ -2,8 +2,9 @@
 
 ## Introduction
 Welcome to a guide born from both struggles and discoveries in the quest for efficient learning. Through personal experiences and extensive exploration, I've compiled essential strategies and tools that have significantly enhanced my productivity and information retention. This guide distills those insights into actionable advice on mastering study habits, managing time, and utilizing technological aids to elevate your learning efficiency. Whether you're aiming to refine your learning process or adopt new, effective methods, you'll find valuable resources here to guide your journey toward becoming an efficient learner.
+
 ## Reduce Distractions
-Despite being a common topic, minimizing distractions is crucial for efficient learning. Creating a conducive learning environment requires intentional effort, as distractions can significantly hinder your ability to absorb and retain information. While detailed strategies for maintaining focus are discussed in [Time Management for Learning](#Time Management for Learning), here are immediate, actionable steps to limit distractions:
+Despite being a common topic, minimizing distractions is crucial for efficient learning. Creating a conducive learning environment requires intentional effort, as distractions can significantly hinder your ability to absorb and retain information. While detailed strategies for maintaining focus are discussed in [Time Management for Learning](#Time-Management-for-Learning), here are immediate, actionable steps to limit distractions:
 - **Manage Your Phone:**
 	- Place it out of sight to avoid temptation. If that's not feasible, use silent or do not disturb modes.
 	- Consider apps like Forest or Focus Plant to discourage frequent phone usage.
@@ -11,6 +12,7 @@ Despite being a common topic, minimizing distractions is crucial for efficient l
 	- A clutter-free desk reduces mental clutter, fostering a more focused and productive learning environment.
 - **Streamline Your Browser Use:**
 	- Keep only essential tabs open to minimize digital distractions. If the browser is necessary, close all unrelated tabs before starting.
+
 ### A Clear Mind
 Beyond physical distractions, our minds often wander to recent events, potential future pleasures, or unchecked tasks, drawing our focus away from learning. Mindfulness can be a powerful tool in recognizing and managing these mental distractions, allowing us to engage fully with the present moment.
 
@@ -21,9 +23,11 @@ Incorporating just 10 minutes of meditation into my daily routine has significan
 - [Daily Calm | 10 Minute Mindfulness Meditation | Impermanence](https://www.youtube.com/watch?v=uumInvT4t9Y)
 - [Daily Calm | 10 Minute Mindfulness Meditation | Be Present](https://www.youtube.com/watch?v=ZToicYcHIOU)
 - [5 Minute Long Deep Breaths](https://www.youtube.com/watch?v=Z8emmFOuhxE)
+
 ## Setting Learning Goals
 Before embarking on a learning journey, it's crucial to define what you want to learn and establish clear goals. This could be mastering a new programming language, memorizing a set of facts, understanding the logic behind mathematical concepts, or any other subject matter. To give yourself a comprehensive overview of the knowledge or skills you aim to acquire, creating a list of well-defined goals can be beneficial. The SMART framework can help you formulate effective learning goals, ensuring they are:
-![[Pasted image 20240318104903.png]]
+![smart](img/smart.png)
+
 ### Example of Goals
 When I was preparing for my Azure Fundamentals certification, I started by writing down my primary goal: "Pass the AZ-900 exam." However, to make this overarching goal more manageable and actionable, I divided it into smaller, more specific objectives.
 
@@ -46,7 +50,8 @@ By breaking down my primary goal into smaller, achievable sub-goals and tracking
 
 The key takeaway is that setting and breaking down goals into manageable steps can significantly enhance your learning efficiency and overall success. It helps you stay organized, focused, and motivated throughout the learning process.
 
-In [Note-Taking Strategies](#Note-Taking Strategies) I cover what tools I use to keep track of my notes and my to-do lists.
+In [Note-Taking Strategies](#Note-Taking-Strategies) I cover what tools I use to keep track of my notes and my to-do lists.
+
 ## Time Management for Learning
 Efficient time management is crucial for successful learning. One of the most widely recognized and scientifically proven techniques for boosting productivity and focus is the Pomodoro Technique. This simple yet powerful method can help you make the most of your study sessions and avoid procrastination or burnout.
 
@@ -62,16 +67,19 @@ There are numerous apps and browser extensions available to help you implement t
 - [Focus To-Do: Pomodoro Timer & To Do List](https://chrome.google.com/webstore/detail/focus-to-do-pomodoro-time/ngceodoilcgpmkijopinlkmohnfifjfb): A Chrome extension that combines a Pomodoro timer with a to-do list for better task management.
 
 By incorporating the Pomodoro Technique into your learning routine, you'll be able to maintain laser-sharp focus during your study sessions, while also allowing your mind to recharge during the scheduled breaks. This balance of intense focus and strategic rest can significantly enhance your productivity, retention, and overall learning efficiency.
+
 ## Note-Taking Strategies
 Taking comprehensive and well-organized notes is a crucial aspect of effective learning. One powerful tool that can streamline your note-taking process is [Obsidian.md](https://obsidian.md/), a free and open-source writing app designed specifically for knowledge management and note-taking.
 
 Obsidian.md offers several advantages over traditional note-taking methods:
 1. **Local Storage and Privacy**: Unlike cloud-based note-taking apps, Obsidian.md stores your notes locally on your computer, ensuring complete privacy and control over your data.
 2. **Cross-Platform Availability**: By combining Obsidian.md with a cloud storage service like OneDrive, you can access and sync your notes across multiple devices, ensuring seamless access to your knowledge base from anywhere.
-3. **Intuitive Linking and Visualization**: One of Obsidian.md's standout features is its ability to automatically create a visual map of your notes as you link them together. This feature, known as the "Graph View," provides a beautiful and intuitive overview of your notes and the connections between them, making it easier to navigate and explore your knowledge base.![[Pasted image 20240318115335.png|375]]
-4. **Customizability and Plugin Ecosystem**: With a large and active user community, Obsidian.md offers a vast array of plugins and customization options, allowing you to tailor the app to your specific note-taking preferences and workflows.
+3. **Intuitive Linking and Visualization**: One of Obsidian.md's standout features is its ability to automatically create a visual map of your notes as you link them together. This feature, known as the "Graph View," provides a beautiful and intuitive overview of your notes and the connections between them, making it easier to navigate and explore your knowledge base.
+![obsidian-graph](img/obsidian-graph.png)
+5. **Customizability and Plugin Ecosystem**: With a large and active user community, Obsidian.md offers a vast array of plugins and customization options, allowing you to tailor the app to your specific note-taking preferences and workflows.
 
 While Obsidian.md may seem daunting at first, its user-friendly interface and extensive documentation make it relatively easy to get started. To help you kickstart your journey with Obsidian.md, I recommend watching [this YouTube video](https://www.youtube.com/watch?v=3ccktMJ1YHI), which provides an excellent introduction to the app and highlights some useful plugins.
+
 ### Tips for Effective Note-Taking
 While using a powerful note-taking app like Obsidian.md can greatly enhance your learning experience, it's equally important to develop effective note-taking habits and strategies. Here are some tips to help you make the most of your note-taking sessions:
 
@@ -80,6 +88,7 @@ While using a powerful note-taking app like Obsidian.md can greatly enhance your
 3. **Review and Revise**: Shortly after a lecture, reading, or study session, take the time to review and revise your notes. Fill in any gaps, clarify any confusing points, and organize your thoughts. If you're using digital notes in Obsidian.md, consider adding visual aids, such as diagrams or screenshots, to help illustrate complex concepts or processes.
 4. **Engage with Your Notes**: Actively engaging with your notes can significantly enhance your understanding and retention. Consider summarizing key points, teaching the content to someone else, or creating flashcards or quizzes for important concepts. In Obsidian.md, you can use features like highlighting, tags, or callouts to emphasize and organize critical information.
 5. **Develop a Personal Note-Taking System**: Experiment with different note-taking techniques and find a system that works best for you. Some effective methods include the Cornell note-taking system, mind mapping, or the outline method. Consistency in your approach will make it easier to review and navigate your notes later.
+
 ## Learning Techniques
 Now that you have written your notes, we can explore different techniques to help you learn effectively. There are two main approaches: active and passive learning.
 
@@ -94,16 +103,23 @@ Now that you have written your notes, we can explore different techniques to hel
 Personally, I find that the effectiveness of these strategies varies depending on the topic and learning style. Not all active learning techniques suit every subject. For instance, I prefer using flashcards when learning a new language (more on that in the next section), but when learning to program, I find hands-on practice to be the most effective approach. When studying for exams, I tend to read my notes thoroughly and ensure I understand everything I have written down, which can be considered a passive learning technique.
 
 The key is to experiment with different strategies and find the ones that work best for you and the specific subject matter. Combining active and passive learning techniques can often yield the best results, ensuring a well-rounded and effective learning experience.
+
 ## Memory Enhancement Techniques
 Sometimes you encounter terms or names that you have to remember, but for some reason they just don't stick. Fortunately, there are multiple memory techniques to help you remember difficult words or facts.
+
 ### Mnemonics
 Mnemonics are memory aids that help in recalling complex information through associations. An example that most people know is using your knuckles the remember the number of days for each month.
-![[Pasted image 20240318143445.png|475]]
+![mnemonic](img/mnemonic.png)
+
 I've found mnemonics particularly effective in language learning. By linking a new word to a familiar concept or phrase, it becomes significantly easier to recall. For instance, to remember the Indonesian word for mouse, _tikus_, I think of "tickle us." Imagine a mouse scampering up your sleeve, tickling as it goes. Personalizing your mnemonics and adding an emotional or sensory layer makes the memory stick even better.
+
 ### Spaced Repetition
-Spaced repetition leverages the power of timing to cement information in long-term memory, utilizing increasing intervals between review sessions to boost retention. This technique is backed by extensive research demonstrating its effectiveness in learning. By reviewing material at strategically spaced intervals, you effectively flatten the curve of forgetting, ensuring that information remains accessible over longer periods.![[Pasted image 20240318160119.png|475]]
+Spaced repetition leverages the power of timing to cement information in long-term memory, utilizing increasing intervals between review sessions to boost retention. This technique is backed by extensive research demonstrating its effectiveness in learning. By reviewing material at strategically spaced intervals, you effectively flatten the curve of forgetting, ensuring that information remains accessible over longer periods.
+![spaced rep](img/spaced-rep.png)
+
 ### Flashcards
-For practical application, flashcards are a staple tool in employing spaced repetition. Whether you prefer physical cards or digital ones, the principle remains the same: review and repetition are key to transferring knowledge from short-term to long-term memory. [Anki](https://apps.ankiweb.net/) /[AnkiWeb](https://ankiweb.net/) , a versatile and free platform for creating digital flashcards, is my go-to for language learning. Its flexibility and effectiveness are not limited to languages, though; it's equally useful for subjects requiring heavy memorization, such as medical and law exams.
+For practical application, flashcards are a staple tool in employing spaced repetition. Whether you prefer physical cards or digital ones, the principle remains the same: review and repetition are key to transferring knowledge from short-term to long-term memory. [Anki](https://apps.ankiweb.net/) / [AnkiWeb](https://ankiweb.net/), a versatile and free platform for creating digital flashcards, is my go-to for language learning. Its flexibility and effectiveness are not limited to languages, though; it's equally useful for subjects requiring heavy memorization, such as medical and law exams.
+
 ### Mind Palace
 The Mind Palace, or the method of loci, is a powerful memory technique used by champions in memorization. It's effective because it taps into our strong spatial and visual memory skills. Imagine creating a virtual space in your mind where you can store and retrieve information easily. Here's a simple way to use it:
 
@@ -113,9 +129,10 @@ The Mind Palace, or the method of loci, is a powerful memory technique used by c
 4. **Create a Path:** Make a route through your chosen place and follow it in your mind to place and recall items.
 5. **Practice:** The more you use this route, the stronger your memory of the items will become.
 
-Dealing with abstract things like numbers can be tricky. Dominic O'Brien, in his book _You Can Have an Amazing Memory_, suggests populating your Mind Palace with familiar people to help. To remember numbers, you could assign each number a letter (for example, A=1, S=5 since S looks like a 5) and then think of a person with those initials. For example, for the sequence 15, think of Arnold Schwarzenegger and imagine placing him somewhere in your Mind Palace. To remember even more information, you can associate each person with specific objects.
+Dealing with abstract things like numbers can be tricky. Dominic O'Brien, in his book _You Can Have an Amazing Memory_, suggests populating your Mind Palace with familiar people to help. To remember numbers, you could assign each number a letter (for example, A=1, S=5 since S looks like a 5) and then think of a person with those initials. For example, for a sequence of 15, think of Arnold Schwarzenegger and imagine placing him somewhere in your Mind Palace. To remember even more information, you can associate each person with specific objects.
 
 Though I've found the Mind Palace less useful for everyday tasks, it's incredibly effective for memorizing complex sequences, like a deck of cards. If you're up for a memory challenge, give this technique a try!
+
 ## Language Learning
 This section delves into strategies and tools I've found effective for language learning, drawing on personal research and insights from Gabriel Wyner's *Fluent Forever*. 
 1. Begin by learning the [625 most useful words](https://fluent-forever.com/wp-content/uploads/2014/05/625-List-Thematic.pdf). Use DeepL and Google Translate for translations to your target language. 
@@ -123,22 +140,28 @@ This section delves into strategies and tools I've found effective for language 
 3. Combine the image and its translation in Anki to create flashcards.
 4. Develop mnemonics to associate with each word, either during flashcard creation or review sessions.
 I'm also working on a project to generate mnemonic images automatically, enhancing efficiency. Follow the progress at [FluentAI](https://github.com/StephanAkkerman/FluentAI).
+
 ### Small Habits
 Learning a new language can seem daunting, especially with the prospect of dedicating hours daily. To mitigate this, incorporate short, daily language learning sessions into your routine. For example, dedicating 10-30 minutes to vocabulary review after breakfast can significantly boost language comprehension over time without feeling burdensome. Establishing this as a daily habit makes language learning a seamless part of your day.
 #### Habit Stacking
 To further embed your language learning habit, try habit stacking. This technique involves integrating new habits into existing routines, enhancing enjoyment and consistency. For instance, coupling language study with your morning coffee ritual can transform it into a daily practice that feels natural and rewarding.
 
 Personally, I align my language study sessions with meal times—after breakfast, lunch, and dinner—to capitalize on the energy boost they provide. For accelerated learning, consider multiple short sessions throughout the day, using each meal as a trigger for language practice.
+
 ## Programming
 Learning programming effectively combines grasping basic syntax with hands-on practice. Initially, find a comprehensive guide that includes practical exercises. For video tutorials, I recommend watching entirely first to grasp the instructor's logic and reasoning behind each code snippet. Understanding the "why" before pausing or replicating enhances memory and application skills. Post video, challenge yourself to write the code independently, referencing the tutorial as minimally as possible.
+
 ### Hobby Projects
 For those more versed in programming, embarking on hobby projects related to personal interests can significantly boost skills. My projects often merge AI innovations with investment strategies, shared on GitHub. This not only motivates through potential community engagement, such as follows or stars, but also encourages writing clear, understandable code.
+
 #### ChatGPT
 While ChatGPT's coding prowess can automate many tasks, its true value for learners lies in code review. Asking ChatGPT for code improvements educates on best practices and introduces higher-quality coding habits. Ensure you fully understand any suggested changes before integrating them into your project.
+
 ### Neetcode
 [Neetcode.io](https://neetcode.io/) offers a structured approach to enhance coding abilities, making it an excellent alternative to the more chaotic leetcode. With its clear roadmap and the same cost-free access, Neetcode helps pinpoint your skill development areas, streamlining your learning process.
 
-![[Pasted image 20240318184327.png]]
+![neetcode](img/neetcode.png)
+
 ## Mathematics
 Understanding and applying knowledge is crucial, not just in mathematics but in all subjects where application outweighs rote memorization. My experience tutoring high school students in math revealed a common pattern: a rush to solve problems without grasping the underlying concepts. Comprehending the logic before application simplifies memorization and execution of operations.
 
