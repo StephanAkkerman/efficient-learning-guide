@@ -4,7 +4,7 @@
 Welcome to a guide born from both struggles and discoveries in the quest for efficient learning. Through personal experiences and extensive exploration, I've compiled essential strategies and tools that have significantly enhanced my productivity and information retention. This guide distills those insights into actionable advice on mastering study habits, managing time, and utilizing technological aids to elevate your learning efficiency. Whether you're aiming to refine your learning process or adopt new, effective methods, you'll find valuable resources here to guide your journey toward becoming an efficient learner.
 
 ## Reduce Distractions
-Despite being a common topic, minimizing distractions is crucial for efficient learning. Creating a conducive learning environment requires intentional effort, as distractions can significantly hinder your ability to absorb and retain information. While detailed strategies for maintaining focus are discussed in [Time Management for Learning](#Time Management for Learning), here are immediate, actionable steps to limit distractions:
+Despite being a common topic, minimizing distractions is crucial for efficient learning. Creating a conducive learning environment requires intentional effort, as distractions can significantly hinder your ability to absorb and retain information. While detailed strategies for maintaining focus are discussed in [Time Management for Learning](#Time-Management-for-Learning), here are immediate, actionable steps to limit distractions:--
 - **Manage Your Phone:**
 	- Place it out of sight to avoid temptation. If that's not feasible, use silent or do not disturb modes.
 	- Consider apps like Forest or Focus Plant to discourage frequent phone usage.
@@ -50,7 +50,7 @@ By breaking down my primary goal into smaller, achievable sub-goals and tracking
 
 The key takeaway is that setting and breaking down goals into manageable steps can significantly enhance your learning efficiency and overall success. It helps you stay organized, focused, and motivated throughout the learning process.
 
-In [Note-Taking Strategies](#Note-Taking Strategies) I cover what tools I use to keep track of my notes and my to-do lists.
+In [Note-Taking Strategies](#Note-Taking-Strategies) I cover what tools I use to keep track of my notes and my to-do lists.
 
 ## Time Management for Learning
 Efficient time management is crucial for successful learning. One of the most widely recognized and scientifically proven techniques for boosting productivity and focus is the Pomodoro Technique. This simple yet powerful method can help you make the most of your study sessions and avoid procrastination or burnout.
