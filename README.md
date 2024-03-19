@@ -74,8 +74,9 @@ Taking comprehensive and well-organized notes is a crucial aspect of effective l
 Obsidian.md offers several advantages over traditional note-taking methods:
 1. **Local Storage and Privacy**: Unlike cloud-based note-taking apps, Obsidian.md stores your notes locally on your computer, ensuring complete privacy and control over your data.
 2. **Cross-Platform Availability**: By combining Obsidian.md with a cloud storage service like OneDrive, you can access and sync your notes across multiple devices, ensuring seamless access to your knowledge base from anywhere.
-3. **Intuitive Linking and Visualization**: One of Obsidian.md's standout features is its ability to automatically create a visual map of your notes as you link them together. This feature, known as the "Graph View," provides a beautiful and intuitive overview of your notes and the connections between them, making it easier to navigate and explore your knowledge base.![obsidian-graph](img/obsidian-graph.png)
-4. **Customizability and Plugin Ecosystem**: With a large and active user community, Obsidian.md offers a vast array of plugins and customization options, allowing you to tailor the app to your specific note-taking preferences and workflows.
+3. **Intuitive Linking and Visualization**: One of Obsidian.md's standout features is its ability to automatically create a visual map of your notes as you link them together. This feature, known as the "Graph View," provides a beautiful and intuitive overview of your notes and the connections between them, making it easier to navigate and explore your knowledge base.
+![obsidian-graph](img/obsidian-graph.png)
+5. **Customizability and Plugin Ecosystem**: With a large and active user community, Obsidian.md offers a vast array of plugins and customization options, allowing you to tailor the app to your specific note-taking preferences and workflows.
 
 While Obsidian.md may seem daunting at first, its user-friendly interface and extensive documentation make it relatively easy to get started. To help you kickstart your journey with Obsidian.md, I recommend watching [this YouTube video](https://www.youtube.com/watch?v=3ccktMJ1YHI), which provides an excellent introduction to the app and highlights some useful plugins.
 
