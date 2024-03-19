@@ -157,7 +157,7 @@ Learning programming effectively combines grasping basic syntax with hands-on pr
 For those more versed in programming, embarking on hobby projects related to personal interests can significantly boost skills. My projects often merge AI innovations with investment strategies, shared on GitHub. This not only motivates through potential community engagement, such as follows or stars, but also encourages writing clear, understandable code.
 
 #### ChatGPT
-While ChatGPT's coding prowess can automate many tasks, its true value for learners lies in code review. Asking ChatGPT for code improvements educates on best practices and introduces higher-quality coding habits. Ensure you fully understand any suggested changes before integrating them into your project.
+While ChatGPT's coding skills can automate many tasks, its true value for learners lies in code review. Asking ChatGPT for code improvements educates on best practices and introduces higher-quality coding habits. Ensure you fully understand any suggested changes before integrating them into your project.
 
 ### Neetcode
 [Neetcode.io](https://neetcode.io/) offers a structured approach to enhance coding abilities, making it an excellent alternative to the more chaotic leetcode. With its clear roadmap and the same cost-free access, Neetcode helps pinpoint your skill development areas, streamlining your learning process.
