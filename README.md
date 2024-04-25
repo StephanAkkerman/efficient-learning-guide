@@ -68,6 +68,24 @@ There are numerous apps and browser extensions available to help you implement t
 
 By incorporating the Pomodoro Technique into your learning routine, you'll be able to maintain laser-sharp focus during your study sessions, while also allowing your mind to recharge during the scheduled breaks. This balance of intense focus and strategic rest can significantly enhance your productivity, retention, and overall learning efficiency.
 
+## Speed Reading
+As the name suggests speed reading is a technique to improve your ability to read quickly. Many techniques can be applied to improve your reading performance. I will cover the ones I think are especially helpful. Consider that applying these techniques will take time and practice. If you want to keep track of your performance, you can start by measuring your words per minute (WPM). Reading quicker can also have an impact on your retention, so be sure to test that as well as you want to find a balance between remembering what you have read and how quickly you have read it.
+
+### Peripheral Vision
+Try using your peripheral vision to read this text. Start by focusing on one word in this sentence and see how much you can read without moving your eyes. This technique is useful, as it does not have a big impact on your retention, reduces eye strain, and improves reading speed. If you would like to learn more about this, I suggest [this free Medium article](https://medium.com/@emadoat/using-peripheral-vision-to-read-more-words-at-once-348439016ab6).
+
+### Use a Pointer
+The pointer method is a way to start learning how to speed read that involves physically following along with words as you read them. Place a notecard underneath each line as you read it, or move your finger along the page. The pointer method helps to reduce eye strain and maintain a constant reading speed. This method is also known as meta guiding or hand pacing.
+
+Often these methods only use examples that apply to physical paper however, oftentimes these can also be used while reading from a computer screen. There are two ways to use the pointer method on a PC. The first is by keeping track of what you're reading by using your cursor, this can be either by highlighting the parts you're reading or simply moving the cursor along the words you're reading.
+Another method is by only having that text that you have to read on the page. That way you cover the words you've already read, this helps when you need to move to the next sentence and also keeps you focused on the text that you are currently reading.
+
+### Reduce Subvocalization
+Many people subvocalize or sound out every word they read in their heads. This may help your reading comprehension but it also slows you down a lot. This makes sense as your theoretically fastest talking speed is always slower than your theoretically fastest reading speed. This is hard to practice, as it often feels natural to do this when reading, especially if you have been doing this for a long time. There are few methods to reduce subvocalizations such as:
+- Chew gum or hum while you read
+- Tap your foot or hand
+- Point to the words you’re reading on the page
+
 ## Note-Taking Strategies
 Taking comprehensive and well-organized notes is a crucial aspect of effective learning. One powerful tool that can streamline your note-taking process is [Obsidian.md](https://obsidian.md/), a free and open-source writing app designed specifically for knowledge management and note-taking.
 
