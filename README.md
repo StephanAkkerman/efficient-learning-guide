@@ -3,6 +3,17 @@
 ## Introduction
 Welcome to a guide born from both struggles and discoveries in the quest for efficient learning. Through personal experiences and extensive exploration, I've compiled essential strategies and tools that have significantly enhanced my productivity and information retention. This guide distills those insights into actionable advice on mastering study habits, managing time, and utilizing technological aids to elevate your learning efficiency. Whether you're aiming to refine your learning process or adopt new, effective methods, you'll find valuable resources here to guide your journey toward becoming an efficient learner.
 
+## Table of Contents
+- [Reduce Distractions](#Reduce-Distractions)
+- [Setting Learning Goals](#Setting-Learning-Goals)
+- [Time Management for Learning](#Time-Management-for-Learning)
+- [Speed Reading](#Speed-Reading)
+- [Note-Taking Strategies](#Note-Taking-Strategies)
+- [Learning Techniques](#Learning-Techniques)
+- [Language Learning](#Language-Learning)
+- [Programming](#Programming)
+- [Mathematics](#Mathematics)
+
 ## Reduce Distractions
 Despite being a common topic, minimizing distractions is crucial for efficient learning. Creating a conducive learning environment requires intentional effort, as distractions can significantly hinder your ability to absorb and retain information. While detailed strategies for maintaining focus are discussed in [Time Management for Learning](#Time-Management-for-Learning), here are immediate, actionable steps to limit distractions:
 - **Manage Your Phone:**
