@@ -168,7 +168,7 @@ This section delves into strategies and tools I've found effective for language 
 1. Begin by learning the [625 most useful words](https://fluent-forever.com/wp-content/uploads/2014/05/625-List-Thematic.pdf). Use DeepL and Google Translate for translations to your target language. 
 2. Search for related images using the translated words, ideally in the target language, to ensure accuracy and cultural relevance.
 3. Combine the image and its translation in Anki to create flashcards.
-4. Develop mnemonics to associate with each word, either during flashcard creation or review sessions.
+4. Develop [mnemonics](#Mnemonics) to associate with each word, either during flashcard creation or review sessions.
 I'm also working on a project to generate mnemonic images automatically, enhancing efficiency. Follow the progress at [FluentAI](https://github.com/StephanAkkerman/FluentAI).
 
 ### Small Habits
@@ -179,8 +179,13 @@ To further embed your language learning habit, try habit stacking. This techniqu
 
 Personally, I align my language study sessions with meal times—after breakfast, lunch, and dinner—to capitalize on the energy boost they provide. For accelerated learning, consider multiple short sessions throughout the day, using each meal as a trigger for language practice.
 
+### Shadowing
+Shadowing is a popular language learning technique based on listening to a clip with desirable pronunciation or accent and repeating word for word aloud with as little delay as possible. Basically, the learner has to become a shadow of the speaker they choose. This is especially useful if you want to sound like a native speaker, as you can practice your accent with this method.
+
+To practice shadowing you simply look for a video or audio clip with the preferred accent, for instance on YouTube or podcasts. Next, you can either listen to the clip first and then start shadowing or immediately start shadowing. If it's the first time you listen to this clip it is recommended to first listen and after listening to the part you want to shadow you go back and start the process of shadowing.
+
 ## Programming
-Learning programming effectively combines grasping basic syntax with hands-on practice. Initially, find a comprehensive guide that includes practical exercises. For video tutorials, I recommend watching entirely first to grasp the instructor's logic and reasoning behind each code snippet. Understanding the "why" before pausing or replicating enhances memory and application skills. Post video, challenge yourself to write the code independently, referencing the tutorial as minimally as possible.
+Learning programming effectively combines grasping basic syntax with hands-on practice. Initially, find a comprehensive guide that includes practical exercises. For video tutorials, I recommend watching entirely first to grasp the instructor's logic and reasoning behind each code snippet. Understanding the "why" before pausing or replicating enhances memory and application skills. After the video, challenge yourself to write the code independently, referencing the tutorial as minimally as possible.
 
 ### Hobby Projects
 For those more versed in programming, embarking on hobby projects related to personal interests can significantly boost skills. My projects often merge AI innovations with investment strategies, shared on GitHub. This not only motivates through potential community engagement, such as follows or stars, but also encourages writing clear, understandable code.
